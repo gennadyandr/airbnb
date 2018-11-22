@@ -1,0 +1,13 @@
+.block {
+    width: 500px;
+    height: 200px;
+    background-color: darkblue;
+    border: dashed 2px saddlebrown;
+    border-radius: 15px;
+    border-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    box-shadow: 0px 0px 0px 13px darkblue,
+                0px 0px 0px 16px saddlebrown;
+}

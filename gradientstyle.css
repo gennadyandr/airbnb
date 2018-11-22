@@ -1,0 +1,9 @@
+.block {
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(90deg, rgba(124,200,100,0.5), rgba(230,90,210,0.5)),
+                        url("IMG/pic4.jpg");
+}
+.block:hover {
+    background-image: url("IMG/pic4.jpg");
+}

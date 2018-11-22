@@ -1,0 +1,15 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.text {
+    font-size: 100px;
+    font-weight: bold;
+    color: magenta;
+    font-family: "Arial Black";
+    text-shadow: 2px 2px #FFFFFF,
+                4px 4px  magenta;
+}
+
+
